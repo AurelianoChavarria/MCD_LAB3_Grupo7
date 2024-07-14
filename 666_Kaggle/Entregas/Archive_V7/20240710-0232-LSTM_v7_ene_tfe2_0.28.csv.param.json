@@ -1,0 +1,9 @@
+{
+    "seq_length": 12,
+    "epochs": 50,
+    "batch_size": 48,
+    "learning_rate": 0.01,
+    "patience": 20,
+    "verbose": 0,
+    "seed": 52
+}

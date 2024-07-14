@@ -1,0 +1,11 @@
+{
+    "seq_length": 3,
+    "epochs": 100,
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "patience": 10,
+    "verbose": 0,
+    "seed": 52,
+    "standard_scaler": 0,
+    "future_steps": 2
+}

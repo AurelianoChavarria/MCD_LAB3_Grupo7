@@ -1,0 +1,23 @@
+{
+    "validation": {
+        "avg_mae": 4.319356969849595,
+        "avg_rmse": 9.071871130732978,
+        "avg_mape": 313.6216788636827,
+        "avg_tfe": 0.4591778090077877
+    },
+    "future_predictions": {
+        "mae_nov_dec_2019": 4.319356969849594,
+        "rmse_nov_dec_2019": 10.002447543646515,
+        "mape_nov_dec_2019": 313.62167886368275,
+        "tfe_nov_dec_2019": 0.31360173917455364
+    },
+    "seq_length": 6,
+    "epochs": 20,
+    "batch_size": 32,
+    "learning_rate": 0.0001,
+    "patience": 10,
+    "verbose": 0,
+    "seed": 14,
+    "standard_scaler": 1,
+    "future_predicion": false
+}
